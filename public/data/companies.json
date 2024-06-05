@@ -4647,4 +4647,18 @@
     "docs": "https://docs.github.com",
     "chains": ""
   }
+  {
+    "id": ,
+    "name": "Ormi",
+    "website": "https://ormi.xyz",
+    "twitter": "https://twitter.com/ormilabs",
+    "logo": "",
+    "category": "Indexing",
+    "description": "Ormi is the unified data layer for Web3 & beyond",
+    "sponsor": "",
+    "products": "0xdb (blockchain SQL engine), 0xgraph (Subgraph hosting), 0xintel (on-chain knowledge graphs)",
+    "slug": "",
+    "docs": "https://docs.ormi.xyz/ormi-labs",
+    "chains": "ETH, Arbitrum, Fantom, Optimism, Mantle, Metis, Sei, Manta, Avalanche, Base, Blast, Berachain, Taiko, Zetachain, Telos"
+  }
 ]
